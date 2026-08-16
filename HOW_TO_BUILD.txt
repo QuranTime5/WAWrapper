@@ -1,0 +1,44 @@
+===========================================
+  WhatsApp Web Wrapper - Build Instructions
+===========================================
+
+STEP 1: Download Android Studio (Free)
+---------------------------------------
+Go to: https://developer.android.com/studio
+Download and install Android Studio for Windows
+(It's about 1GB download)
+
+STEP 2: Open This Project
+--------------------------
+1. Open Android Studio
+2. Click "Open" 
+3. Browse to this WAWrapper folder
+4. Click OK
+5. Wait for it to sync (first time takes 5-10 mins)
+
+STEP 3: Build the APK
+----------------------
+1. Click "Build" menu at top
+2. Click "Build Bundle(s) / APK(s)"
+3. Click "Build APK(s)"
+4. Wait 2-3 minutes
+5. Click "locate" when it says "APK generated"
+
+STEP 4: Install on Your Phone
+------------------------------
+1. Copy the APK file to your phone
+2. Open it on phone
+3. Install it
+4. Open the app
+5. Scan QR code with another phone's WhatsApp
+6. Done! Works exactly like WhatsApp!
+
+===========================================
+  App Features:
+  - Full WhatsApp Web experience
+  - File sharing works
+  - Camera works  
+  - No integrity checks
+  - Saves session (no QR scan every time)
+  - Back button navigation works
+===========================================
